@@ -1,0 +1,22 @@
+{
+  "name": "node-test-package",
+  "version": "0.0.1",
+  "description": "A node package for testing the functionality of npm and node_modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Kevin Altman",
+    "email": "kevin@itsthatguy.com",
+    "url": "@itg"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/adorableio/node-test-package"
+  },
+  "issues": {
+    "bugs": "http://github.com/adorableio/node-test-package"
+  }
+}
