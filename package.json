@@ -1,6 +1,6 @@
 {
   "name": "node-test-package",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A node package for testing the functionality of npm and node_modules",
   "main": "index.js",
   "scripts": {
